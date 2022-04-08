@@ -12,4 +12,5 @@ a rede tem como principio a divulgação e apoio de projetos de educação e amp
  
 (Para mais informações sobre o projeto entre em contato via redes sociais: https://www.instagram.com/fisico_peculiar_/)
 
-  https://www.figma.com/file/lYg8SfJcSfX7PZgwRE69oH/Untitled?node-id=8%3A24
+ ![web page 0 1](https://user-images.githubusercontent.com/95295070/162476324-15cc2234-3b6a-4be3-a5d8-b2fd817c8df1.png)
+pagina de cadastro
