@@ -11,4 +11,4 @@ a ideia  original é criar um site ou aplicação feito para quem quer estudar e
  
 (Para mais informações sobre o projeto entre em contato via redes sociais: https://www.instagram.com/fisico_peculiar_/)
 
-          
+          <style> body{backgroud:#fff; color:#000;}<style>
