@@ -1,5 +1,5 @@
 # SCIGLOB 
-este reservado de foi criado para acompanhar o desenvolvimento o site de educação e interações sociais desenvolvido pela marca "físico peculiar"
+este repositorio foi criado para acompanhar o desenvolvimento do site de educação e interações sociais desenvolvido pela marca "físico peculiar" contribua com suas ideias e sua divulgação
 
 ![image](https://user-images.githubusercontent.com/95295070/156926260-2d8b95f7-4882-4ecb-96fc-73dbe4be8185.png)
 
