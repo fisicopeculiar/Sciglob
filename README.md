@@ -1,5 +1,5 @@
-# Meu-site-pessoal
-este reservado de foi criado para acompanhar o desenvolvimento meu site pessoal da marca físicopeculiar_
+# SCIGLOB 
+este reservado de foi criado para acompanhar o desenvolvimento o site de educação e interações sociais desenvolvido pela marca "físico peculiar"
 
 ![image](https://user-images.githubusercontent.com/95295070/156926260-2d8b95f7-4882-4ecb-96fc-73dbe4be8185.png)
 
